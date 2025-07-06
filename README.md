@@ -29,4 +29,21 @@
 ---
 
 ## 📁 Project Structure
+E-shop/
+├── backend/ # Node.js + Express API
+├── frontend/ # React + Redux client
+├── uploads/ # Image uploads
+├── .env.example # Environment variable template
+├── package.json # Root metadata
+
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/E-shop.git
+cd E-shop
 
