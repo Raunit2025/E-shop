@@ -77,3 +77,7 @@ Password: admin123
 User:
 Email: user@example.com
 Password: user123
+
+
+💡 Author
+Made with ❤️ by Raunit Raj
