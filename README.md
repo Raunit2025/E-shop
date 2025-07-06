@@ -46,30 +46,25 @@ E-shop/
 ```bash
 git clone https://github.com/your-username/E-shop.git
 cd E-shop
+```
 
 2. Setup Backend
-bash
-Copy
-Edit
-cd backend
-npm install
-npm run dev
+   ```bash
+   cd backend
+    npm install
+    npm run dev
+   
 3. Setup Frontend
-bash
-Copy
-Edit
-cd ../frontend
-npm install
-npm start
+   ```bash
+     cd ../frontend
+      npm install
+      npm start
 4. Configure Environment Variables
 Create .env files in both backend/ and frontend/ directories.
 
 Use .env.example as a reference.
 
 🧪 Sample Credentials
-text
-Copy
-Edit
 Admin:
 Email: admin@example.com
 Password: admin123
@@ -77,7 +72,6 @@ Password: admin123
 User:
 Email: user@example.com
 Password: user123
-
 
 💡 Author
 Made with ❤️ by Raunit Raj
